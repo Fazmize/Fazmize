@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Fazmize
 
-- 🌱 I’m currently learning c++ and python
+- 🌱 I’m currently learning C#
 
 
 
